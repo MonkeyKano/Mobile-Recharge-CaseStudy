@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\models\\rechargehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\models\\rechargehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kano\\AppData\\Local\\Temp\\kfdisy3x..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\models\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\models\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\controllers\\rechargehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\controllers\\rechargehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\controllers\\customerdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\controllers\\customerdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\migrations\\20240611132650_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\migrations\\20240611132650_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\models\\mobilerechargedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\models\\mobilerechargedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\migrations\\20240611143754_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\migrations\\20240611143754_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|c:\\users\\kano\\source\\repos\\mobilerecharge\\mobilerecharge\\migrations\\20240611140448_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A74607A-6083-4EB2-9850-4ABB07278C08}|MobileRecharge\\MobileRecharge.csproj|solutionrelative:mobilerecharge\\migrations\\20240611140448_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kano\\AppData\\Local\\Temp\\kfdisy3x..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kano\\AppData\\Local\\Temp\\kfdisy3x..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Kano\\AppData\\Local\\Temp\\kfdisy3x..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\kfdisy3x..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-11T17:22:15.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RechargeHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Controllers\\RechargeHistoriesController.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Controllers\\RechargeHistoriesController.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Controllers\\RechargeHistoriesController.cs",
+              "RelativeToolTip": "MobileRecharge\\Controllers\\RechargeHistoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:39:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Controllers\\CustomerDetailsController.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Controllers\\CustomerDetailsController.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Controllers\\CustomerDetailsController.cs",
+              "RelativeToolTip": "MobileRecharge\\Controllers\\CustomerDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:39:10.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240611143754_ThirdMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Migrations\\20240611143754_ThirdMigration.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Migrations\\20240611143754_ThirdMigration.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Migrations\\20240611143754_ThirdMigration.cs",
+              "RelativeToolTip": "MobileRecharge\\Migrations\\20240611143754_ThirdMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:37:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240611140448_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Migrations\\20240611140448_SecondMigration.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Migrations\\20240611140448_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Migrations\\20240611140448_SecondMigration.cs",
+              "RelativeToolTip": "MobileRecharge\\Migrations\\20240611140448_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:04:48.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240611132650_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Migrations\\20240611132650_FirstMigration.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Migrations\\20240611132650_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Migrations\\20240611132650_FirstMigration.cs",
+              "RelativeToolTip": "MobileRecharge\\Migrations\\20240611132650_FirstMigration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:26:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Program.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Program.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Program.cs",
+              "RelativeToolTip": "MobileRecharge\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:29:14.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\appsettings.json",
+              "RelativeDocumentMoniker": "MobileRecharge\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\appsettings.json",
+              "RelativeToolTip": "MobileRecharge\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:18:19.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RechargeHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Models\\RechargeHistory.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Models\\RechargeHistory.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Models\\RechargeHistory.cs",
+              "RelativeToolTip": "MobileRecharge\\Models\\RechargeHistory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:07:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Models\\CustomerDetails.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Models\\CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Models\\CustomerDetails.cs",
+              "RelativeToolTip": "MobileRecharge\\Models\\CustomerDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T04:54:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MobileRechargeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Models\\MobileRechargeDbContext.cs",
+              "RelativeDocumentMoniker": "MobileRecharge\\Models\\MobileRechargeDbContext.cs",
+              "ToolTip": "C:\\Users\\Kano\\source\\repos\\MobileRecharge\\MobileRecharge\\Models\\MobileRechargeDbContext.cs",
+              "RelativeToolTip": "MobileRecharge\\Models\\MobileRechargeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:21:27.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
